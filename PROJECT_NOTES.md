@@ -16,3 +16,8 @@ Automated prompt testing and optimization
 
 ## Technologies Used
 Python, Prompt Engineering
+
+## Enhanced Features
+### Production-Grade Additions:
+- src/prompt_engineering/optimizer.py
+- src/ab_testing.py
